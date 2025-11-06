@@ -15,9 +15,9 @@ Um aplicativo criado para o Discord com o intuito de facilitar a criação do se
 
 #### 1. Informações de sua conta:
 
-Ao usar a Hanae, suas informações que incluem, mas não se limitam a **ID**, **Nome** ou **Avatar**, serão salvas para uso no futuro. Seguindo todos os [Termos de Serviço do Discord](https://discord.com/terms).
+Ao usar a Hanae, suas informações como **ID** e **Nome de Usuário**, serão salvas para uso no futuro. Seguindo todos os [Termos de Serviço do Discord](https://discord.com/terms).
 
-Você pode personalizar sua experiência da Hanae modificando as **Privacidade**. 
+Você pode personalizar sua experiência da Hanae modificando em **Privacidade** nas configurações (Use o comando `/config`, somente nas mensagens diretas da Hanae). 
 
 #### 2. Informações sobre as suas atividades:
 A Hanae sabe as mensagens que são enviadas por você na presença dala, já que são usadas para funcionalidades como **Rewards**.
