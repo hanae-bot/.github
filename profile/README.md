@@ -1,3 +1,4 @@
+![Hanae✨️](https://github.com/hanae-bot/.github/raw/main/profile/hanae_banner.png)
 # Hanae Bot
 Um aplicativo criado para o Discord com o intuito de facilitar a criação do seu servidor do Discord!
 
